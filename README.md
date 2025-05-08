@@ -1,4 +1,4 @@
-# Entry Programming Question for Master Students 
+# Entry Programming Questions for Master Students 
 Our master’s projects are primarily coding-focused. To ensure a smooth experience, please only apply for projects in the lab if you can complete the following coding question without help of AI. If you encounter challenges while solving the questions, we recommend searching online and reviewing the relevant statistics courses offered by the department.
 
 ## Task Description
